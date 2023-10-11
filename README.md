@@ -1,2 +1,0 @@
-# demo-repo
-Dummy repository
